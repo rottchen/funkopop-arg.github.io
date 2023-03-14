@@ -1,0 +1,113 @@
+[
+    {
+        "id": "1",
+        "tipo": "funkopop",
+        "nombre": "Patrick Bateman",
+        "precio": "12999",
+        "img": "02-bateman.jpg",
+        "alt": "caja de Funko Pop de Patrick Bateman",
+        "pelicula": "American Pyscho",
+        "descripcion": "En la década de 1980, Patrick Bateman es un exitoso obsesionado por la competencia y por la perfección material, que utiliza los más caros cosméticos masculinos, equipos de gimnasia, solárium y demás maquinaria estética para lograr un cuerpo atlético y bien acicalado, identificador material del éxito social."
+    },
+    {
+        "id": "2",
+        "tipo": "funkopop",
+        "nombre": "LeatherFace",
+        "precio": "8499",
+        "img": "04-leatherface.jpg",
+        "alt": "caja de Funko Pop de LeatherFace",
+        "pelicula": "Masacre de Texas",
+        "descripcion": "Un grupo de cuatro jóvenes idealistas viajan al remoto pueblo de Harlow, Texas, para montar un negocio. Pero su sueño se convierte en una auténtica pesadilla cuando molestan sin querer a Leatherface, el desquiciado asesino en serie."
+    },  
+    {
+        "id": "3",
+        "tipo": "funkopop",
+        "nombre": "Michael Myers",
+        "precio": "15399",
+        "img": "06-myers.jpg",
+        "alt": "caja de Funko Pop de Michael Myers",
+        "pelicula": "Halloween",
+        "descripcion": "El pequeño Michael Myers asesina a su hermana en la noche de Halloween de 1963, por lo que es internado en un psiquiátrico. Seis años más tarde, Myers se escapa del hospital y regresa a su pueblo natal, Haddonfield, en Illinois. El psicópata dará comienzo a una serie de horripilantes asesinatos mientras uno de los médicos que lo trataba en el hospital le sigue la pista."
+    },
+    {
+        "id": "4",
+        "tipo": "funkopop",
+        "nombre": "Hannibal Lecter",
+        "precio": "8999",
+        "img": "08-lecter.jpg",
+        "alt": "caja de Funko Pop de Hannibal Lecter",
+        "pelicula": "El Silencio de los Inocentes",
+        "descripcion": "Tras una serie de crímenes donde a las víctimas les faltaba parte de la piel, una agente del FBI inicia su carrera particular para dar con el asesino. Para resolver el caso la agente encargada deberá envtrevistarse con el doctor Hannibal Lecter."
+    },  
+    {
+        "id": "5",
+        "tipo": "funkopop",
+        "nombre": "Michael Corleone",
+        "precio": "8999",
+        "img": "10-michael.jpg",
+        "alt": "caja de Funko Pop de Michael Corleone",
+        "pelicula": "El Padrino",
+        "descripcion": "Don Vito Corleone es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York en los años 40. El hombre tiene cuatro hijos: Connie, Sonny, Fredo y Michael, que no quiere saber nada de los negocios sucios de su padre. Cuando otro capo, Sollozzo, intenta asesinar a Corleone, empieza una cruenta lucha entre los distintos clanes."
+    },
+    {
+        "id": "6",
+        "tipo": "funkopop",
+        "nombre": "Dr. Brown con casco",
+        "precio": "8499",
+        "img": "12-drbrown.jpg",
+        "alt": "caja de Funko Pop del Dr. Emmett Brown con casco",
+        "pelicula": "Volver al Futuro",
+        "descripcion": "El adolescente Marty McFly es amigo de Doc, un científico que ha construido una máquina del tiempo. Cuando los dos prueban el artefacto, un error fortuito hace que Marty llegue a 1955, año en el que sus padres iban al instituto y todavía no se habían conocido. Después de impedir su primer encuentro, Marty deberá conseguir que se conozcan y se enamoren, de lo contrario su existencia no sería posible."
+    },
+    {
+        "id": "7",
+        "tipo": "funkopop",
+        "nombre": "Marty Mcfly con Chaleco inflable",
+        "precio": "11999",
+        "img": "14-mcfly.jpg",
+        "alt": "caja de Funko Pop de Marty Mcfly con Chaleco Inflable",
+        "pelicula": "Volver al Futuro",
+        "descripcion": "El adolescente Marty McFly es amigo de Doc, un científico que ha construido una máquina del tiempo. Cuando los dos prueban el artefacto, un error fortuito hace que Marty llegue a 1955, año en el que sus padres iban al instituto y todavía no se habían conocido. Después de impedir su primer encuentro, Marty deberá conseguir que se conozcan y se enamoren, de lo contrario su existencia no sería posible."
+    },
+    {
+        "id": "8",
+        "tipo": "funkopop",
+        "nombre": "Moon Knight",
+        "precio": "11499",
+        "img": "16-moonknight.jpg",
+        "alt": "caja de Funko Pop de Moon Knight",
+        "pelicula": "Moon Knight Serie",
+        "descripcion": "Un trabajador de un museo que lucha contra un trastorno de identidad disociativo, recibe los poderes de un dios egipcio de la luna. Pronto descubre que estos poderes pueden ser tanto una bendición como una maldición."
+    },
+    {
+        "id": "9",
+        "tipo": "mochilas",
+        "nombre": "Mochila Billy Butcherson",
+        "precio": "25199",
+        "img": "billy.jpg",
+        "alt": "Mochila de Billy Butcherson",
+        "pelicula": "Hocus Pocus",
+        "descripcion": "Hace trescientos años, tres brujas fueron sentenciadas a muerte en Salem, pero un niño las convirtió en gatos negros. En pleno Halloween, las brujas han vuelto accidentalmente gracias a Max, que estaba explorando las ruinas de su vieja casa."
+    },
+    {
+        "id": "10",
+        "tipo": "mochilas",
+        "nombre": "Mochila de Jack Skellington",
+        "precio": "22399",
+        "img": "jack.jpg",
+        "alt": "Mochila de Jack Skellington",
+        "pelicula": "El Extraño mundo de Jack",
+        "descripcion": "El Señor de Halloween, Jack Skellington, aburrido de hacer cada año lo mismo, descubre la Navidad en la Ciudad de la Navidad y queda fascinado, por lo que decide emplearse a fondo y mejorar dicha festividad. Con este fin, secuestra a Santa Claus y crea una versión de la Navidad totalmente opuesta a la que existe. Sólo su novia Sally es consciente del error que está cometiendo."
+    },
+    {
+        "id": "11",
+        "tipo": "mochilas",
+        "nombre": "Mochila My Hero Academia",
+        "precio": "9899",
+        "img": "my-hero.jpg",
+        "alt": "Mochila de My Hero Academia",
+        "pelicula": "My Hero Academia",
+        "descripcion": "En un mundo donde tener superpoderes es lo más común, nace Izuku Midoriya, un niño sin este don que sueña con ser un superhéroe. La gente con este tipo de habilidades es conocida como 'Quirk' y, debido a no pertenecer a esta clase, Izuku sufre bullying en su escuela por ser diferente."
+    }
+]
+
